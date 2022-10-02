@@ -3,6 +3,8 @@
 - 📫 Reach me by email
 
 
+Projects:
+
 Math Knights:
 
 As part of the CMPT*322 class we made a Unity game called Math Knights. As a part of a team of three I learned to understand the concepts and 
